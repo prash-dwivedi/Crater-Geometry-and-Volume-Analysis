@@ -41,7 +41,12 @@ The script is executed as a Python modifier within the OVITO framework. The work
 
 Each step builds on the results of the previous one, ensuring a logical and cohesive flow of analysis.
 
----
+## Citation
+
+If you use this script in your research, please cite the following articles:
+
+- [DOI: 10.1016/j.jnucmat.2024.155289](https://doi.org/10.1016/j.jnucmat.2024.155289)
+- [DOI: 10.1016/j.jnucmat.2024.155042](https://doi.org/10.1016/j.jnucmat.2024.155042)
 
 ## Dependencies
 - Python 3.x
